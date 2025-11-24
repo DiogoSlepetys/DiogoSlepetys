@@ -1,8 +1,8 @@
 # Diogo Slepetys
 
-![WebGL2](https://img.shields.io/badge/WebGL2-1&2-black)
+![WebGL](https://img.shields.io/badge/WebGL-1%20&%202-black)
 ![GLSL](https://img.shields.io/badge/GLSL-Shaders-black)
-![C&C++](https://img.shields.io/badge/C++&C-Systems-blue)
+![C&C++](https://img.shields.io/badge/C++%20&%20C-Systems-blue)
 ![Emscripten](https://img.shields.io/badge/WebAssembly-Emscripten-lightgrey)
 ![Lit](https://img.shields.io/badge/Lit-Web%20Components-yellow)
 ![React](https://img.shields.io/badge/React-UI-blue)
