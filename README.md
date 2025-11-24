@@ -25,7 +25,7 @@ Software Engineer focused on real-time rendering, WebGL2/GLSL, browser-based GPU
   [https://www.youtube.com/@LunarBlank](https://www.youtube.com/@LunarBlank)
 
 * **Sepulchron Demo** – Upcoming game project featuring custom shaders.
-  [https://diogoslepetys.github.io/SepulchronDemo](https://store.steampowered.com/app/3156910/Sepulchron/)
+  [https://store.steampowered.com/app/3156910/Sepulchron/](https://store.steampowered.com/app/3156910/Sepulchron/)
 <!--
 * **FITS Viewer (WIP)** – GPU-accelerated FITS renderer (WebGL2 + WASM).-->
 
