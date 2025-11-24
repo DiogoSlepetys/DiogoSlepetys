@@ -31,5 +31,4 @@ Software Engineer focused on real-time rendering, WebGL2/GLSL, browser-based GPU
 
 ## Contact
 
-* GitHub: [https://github.com/DiogoSlepetys](https://github.com/DiogoSlepetys)
-* YouTube: [https://www.youtube.com/@diogoslepetys](https://www.youtube.com/@diogoslepetys)
+* e-mail: [aluvyer@gmail.com](mailto:aluvyer@gmail.com)
